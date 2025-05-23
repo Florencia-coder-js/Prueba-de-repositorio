@@ -1,0 +1,19 @@
+{
+  "name": "javascript-nodejs",
+  "version": "1.0.0",
+  "description": "Este es un proyecto inicializado con NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\"Error: no test specified\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florencia-coder-js/Prueba-de-repositorio.git"
+  },
+  "author": "Florencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florencia-coder-js/Prueba-de-repositorio/issues"
+  },
+  "homepage": "https://github.com/Florencia-coder-js/Prueba-de-repositorio#readme"
+}
